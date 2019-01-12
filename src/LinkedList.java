@@ -111,6 +111,7 @@ public class LinkedList {
 				}
 			}
 			node1 = node1.getNext();
+			System.out.println("hi");
 		}
 	}
 }
